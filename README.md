@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[p](https://github.com/chzhzhou/chzhzhou.github.io/blob/master/README.md) and ![Image](src)
+[p](https://google.com) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
