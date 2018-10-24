@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](_post/2014-3-3-Hello-World.md) and ![Image](src)
+[_post/2014-3-3-Hello-World.md](_post/2014-3-3-Hello-World.md) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
