@@ -22,6 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+[I'm an inline-style link](https://www.google.com)
 
 [ps](https://google.com) and ![Image](src)
 ```
